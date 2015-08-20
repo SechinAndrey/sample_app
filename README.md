@@ -1,2 +1,2 @@
-# Задание из 3 главы книги
-[*Ruby on Rails Tutorial*](http://railstutorial.org/)
+# Выполненые 11 глав из книги Ruby on Rails Tutorial
+[*Проект на Heroku*](https://whispering-plains-2698.herokuapp.com/)
